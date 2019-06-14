@@ -1,6 +1,6 @@
 {
-  "theme":       "default",
-  "name":        "John Smith",
+  "theme":       "developer",
+  "name":        "Anibal Aguila",
   "bio":         "I explore, I work, and I have hobbies.",
   "description": "Detailed description for search engines.",
   "host":        "https://minimal-default.netlify.com ",
