@@ -3,7 +3,7 @@
   "name":        "Anibal · Aguila",
   "bio":         "I explore, I work, and I have hobbies.",
   "description": "Detailed description for search engines.",
-  "host":        "https://anibal-aguila.netlify.com ",
+  "host":        "https://aa.wtmh.dev",
   "analytics":   "<script type='text/javascript'></script>",
   "feeds": [
     { "type": "application/atom+xml", "url": "{{{host}}}/blog/feed.atom"},
@@ -16,8 +16,7 @@
     { "name": "RSS",      "symbol": "&#xe271;", "url": "http://feeds.feedburner.com/anibal-aguila" }
   ],
   "pages": [
-    { "name": "Blog",     "url": "/",       "visible": false },
-    { "name": "Sumary", "url": "/sumary", "visible": true },
+    { "name": "Sumary", "url": "/",       "visible": true },
     { "name": "Skills", "url": "/skills", "visible": true }
   ]
 }
