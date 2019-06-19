@@ -10,13 +10,13 @@
     { "type": "application/rss+xml",  "url": "{{{host}}}/blog/feed.rss"}
   ],
   "links": [
-    { "name": "Twitter",  "symbol": "&#xe286;", "url": "http://www.twitter.com/anibal-aguila" },
+    { "name": "Twitter",  "symbol": "&#xe286;", "url": "https://twitter.com/_anibalaguila" },
     { "name": "LinkedIn", "symbol": "&#xe252;", "url": "https://www.linkedin.com/in/anibal-aguila" },
-    { "name": "GitHub",   "symbol": "&#xe237;", "url": "http://www.github.com/anibal-aguila" },
+    { "name": "GitHub",   "symbol": "&#xe237;", "url": "https://www.github.com/anibal-aguila" },
     { "name": "RSS",      "symbol": "&#xe271;", "url": "http://feeds.feedburner.com/anibal-aguila" }
   ],
   "pages": [
-    { "name": "Sumary", "url": "/",       "visible": true },
+    { "name": "Summary", "url": "/",       "visible": true },
     { "name": "Skills", "url": "/skills", "visible": true },
     { "name": "Education", "url": "/education", "visible": true }
   ]
