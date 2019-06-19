@@ -17,6 +17,6 @@
   ],
   "pages": [
     { "name": "Sumary",     "url": "/",       "visible": true },
-    { "name": "Projects", "url": "/projects", "visible": true }
+    { "name": "Skills", "url": "/skills", "visible": true }
   ]
 }
