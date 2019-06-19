@@ -16,7 +16,7 @@
     { "name": "RSS",      "symbol": "&#xe271;", "url": "http://feeds.feedburner.com/anibal-aguila" }
   ],
   "pages": [
-    { "name": "Blog",     "url": "/",         "visible": true },
+    { "name": "Sumary",     "url": "/",       "visible": true },
     { "name": "Projects", "url": "/projects", "visible": true }
   ]
 }
