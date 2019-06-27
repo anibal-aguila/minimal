@@ -18,6 +18,7 @@
   "pages": [
     { "name": "Summary", "url": "/",       "visible": true },
     { "name": "Skills", "url": "/skills", "visible": true },
+    { "name": "Projects", "url": "/projects", "visible": true }
     { "name": "Education", "url": "/education", "visible": true }
   ]
 }
